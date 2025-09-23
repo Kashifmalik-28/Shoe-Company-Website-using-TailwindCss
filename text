@@ -1,3 +1,4 @@
 1️⃣ 08:30: tiny png website pr ja kr img ka size compress krna chayie agr production man kam kr rha.
 2️⃣16:30: anchor tag man agr ksy dusra url pr nah jana ho to commonly ./ ya # data han.
 3️⃣ 18:00: space-x-8 ( yah horizontally gap da da ga first items ko chor kr sab man isy trah vertically bhe da skta han gap space-y-8)
+4️⃣One More Imp Thing When making Header: header pr flex da kr items-centre data han and justify-between properties data han mostly cases man ( picture or content ko amna samna rakhna kalia ) & Best Practice ( Sath he media queries lga kr mobile and Tablet view bhe bna do Header ka )
