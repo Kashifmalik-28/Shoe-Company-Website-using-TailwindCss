@@ -1,4 +1,15 @@
 1️⃣ 08:30: tiny png website pr ja kr img ka size compress krna chayie agr production man kam kr rha.
 2️⃣16:30: anchor tag man agr ksy dusra url pr nah jana ho to commonly ./ ya # data han.
 3️⃣ 18:00: space-x-8 ( yah horizontally gap da da ga first items ko chor kr sab man isy trah vertically bhe da skta han gap space-y-8)
-4️⃣One More Imp Thing When making Header: header pr flex da kr items-centre data han and justify-between properties data han mostly cases man ( picture or content ko amna samna rakhna kalia ) & Best Practice ( Sath he media queries lga kr mobile and Tablet view bhe bna do Header ka )
+4️⃣One More Imp Thing When making Header:
+  header pr flex da kr items-centre data han and justify-between properties data han
+  ✌️mostly cases man ( picture or content ko amna samna rakhna kalia )
+  & Best Practice ( Sath he media queries lga kr mobile and Tablet view bhe bna do Header ka )
+5️⃣37:10 To 38:00:
+  Imp Property max-w de 3xl to itny width ho gaye pura hero section ke phr mx-auto ( yahny margin left-right auto dia to donon centre ho gaya )
+  ✌️ pahla yah kia tha lakin 45:30 pr changing kr rha (justify-btw da kr padding de horizontal man or max-w increase ke  )
+6️⃣38:10 To 51:00 V-V-IMP hero-section ( Naye cheezan Seekhen ):
+  ✌️background img properties use ken bg-contain, bg-no-repeat,bg-right
+  ✌️ab hmna hero-section ke bg-image ko uper tak la kr jana tha islia hmna header ko position-fixed dia voh uper uth kr chipak gaya or hmara hero section uska neecha chla gaya, and jab position fixed de width kam ho gaye islia w-full da de,
+  ✌️ab aik naye cheez hm header and hero-section donon pr aik jasy width da kr mx-auto kr rha ha takah centre man a janya or bry screen man donon aik jasa decrease hon
+  lakin position-fixed ke vjah sa mx-auto header pr kam nhi kr rha to mana yah da dia centre krna kalia left-[50%] -translate-x-[50%]
