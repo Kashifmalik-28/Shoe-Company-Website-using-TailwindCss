@@ -7,11 +7,17 @@
   </head>
   <body class="bg-black">
     <header
-      class="px-12 text-white flex items-center justify-between fixed w-full max-w-[1440px] left-1/2 -translate-x-1/2"
+      class="px-6 md:px-12 text-white flex items-center justify-between fixed w-full max-w-[1440px] left-1/2 -translate-x-1/2"
     >
       <a href="#">
-        <img class="w-32" src="/img/shoe-company-logo 1.png" alt="logo" />
-        <p class="text-sm -mt-8">The Shoe Company</p>
+        <img
+          class="w-20 md:w-32"
+          src="/img/shoe-company-logo 1.png"
+          alt="logo"
+        />
+        <p class="text-xs -mt-5 font-bold md:text-sm md:-mt-8">
+          The Shoe Company
+        </p>
       </a>
       <nav class="font-bold space-x-6 lg:space-x-8 lg:text-2xl hidden md:block">
         <a href="#">Home</a>
@@ -20,15 +26,15 @@
         <a href="#testimonials">Testimonials</a>
         <a href="#contact Us">Contact Us</a>
       </nav>
-      <button type="button" class="text-4xl md:hidden">☰</button>
+      <button type="button" class="text-3xl md:hidden">☰</button>
     </header>
     <section
-      class="bg-[url('/img/hero-section-road.png')] bg-contain bg-no-repeat bg-right pt-36 px-18 max-w-[1440px] mx-auto"
+      class="bg-[url('/img/hero-section-road.png')] bg-cover md:bg-contain bg-no-repeat bg-right pt-36 px-6 md:px-18 max-w-[1440px] mx-auto"
     >
       <div
-        class="text-white flex items-center justify-between max-w-6xl mx-auto"
+        class="text-white flex flex-col md:flex-row md:items-center justify-between max-w-6xl mx-auto"
       >
-        <h1 class="text-6xl font-bold leading-[72px]">
+        <h1 class="text-3xl md:text-6xl font-bold leading-11 md:leading-[72px]">
           THE <br />
           SHOE <br />
           COMPANY

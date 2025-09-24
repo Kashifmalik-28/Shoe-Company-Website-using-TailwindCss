@@ -13,3 +13,6 @@
   ✌️ab hmna hero-section ke bg-image ko uper tak la kr jana tha islia hmna header ko position-fixed dia voh uper uth kr chipak gaya or hmara hero section uska neecha chla gaya, and jab position fixed de width kam ho gaye islia w-full da de,
   ✌️ab aik naye cheez hm header and hero-section donon pr aik jasy width da kr mx-auto kr rha ha takah centre man a janya or bry screen man donon aik jasa decrease hon
   lakin position-fixed ke vjah sa mx-auto header pr kam nhi kr rha to mana yah da dia centre krna kalia left-[50%] -translate-x-[50%]
+7️⃣ 51:00 To 01:04:00 Very Imp Trick For Css:
+  Jab bhe Css likhta han mobile view bnana hota ha to desktop kalia jo bhe style dun voh tailwind css man
+  md ka  aga style dan ( yah style apply ho ga 768px sa uper ke screen man )
