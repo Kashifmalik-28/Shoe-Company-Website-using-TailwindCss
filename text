@@ -16,3 +16,12 @@
 7️⃣ 51:00 To 01:04:00 Very Imp Trick For Css:
   Jab bhe Css likhta han mobile view bnana hota ha to desktop kalia jo bhe style dun voh tailwind css man
   md ka  aga style dan ( yah style apply ho ga 768px sa uper ke screen man )
+8️⃣01:06:00 To 01:08:40  one More Imp Trick: add custom class agr aik jasa code hr jagah use kr rha han in input.css file.
+9️⃣01:09:00 To How it works Section bnata vakt jo cheezan seekhna ko milen:
+  First: Ksy content ko neecha valy line man lana ha to best practice ha max-w set kro kam
+  Second: or phr centre krna ha simple to best practice mx-auto ( margin-inline auto )
+  Third: w-full dana bhe achy practice ha ( kah isa apna parent sa bra nhi hona )
+  Fourth Very Very-Imp: mana position-absolute and translate ka concept acha sa experience kia ( sirf aik bar Notes sa Read Kia Motivation ❤️)
+  Fifth 01:27:30 To Imp Thing:
+  Sixth: scroll-smooth krvana kalia seedha html pr class scroll smooth da do.
+  01:39:
