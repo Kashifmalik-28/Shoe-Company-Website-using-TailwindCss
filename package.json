@@ -1,11 +1,11 @@
 {
-  "name": "02_-(-the-shoe-company-website-using-tailwind-)",
+  "name": "02_-(-the-shoe-company-website-using-tailwind-)" ,
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "tailwind": "tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+    "tailwind": "tailwindcss -i ./src/input.css -o ./src/output.css --watch "
   },
   "keywords": [],
   "author": "",
