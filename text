@@ -32,3 +32,7 @@ Third V-IMP: Header ko blur krna seekha use backdrop-blur property.
 
 01:44:00 To 02:31:30 Creating How-it-works section mobile design:
   ❤️Very very Very Motivation For Me: ( yah sara mobile design mana khud bnaya bina video dakha or sir sa Boht acha bnaya ziada changings bhe nhi ken )
+
+02:31:30 To 02:52:30 ( Making a about-us section screen & also mobile size ):
+  space-x & y ( bry best property ha space dana kalia ksy bhe element man )
+  Hmara Header ka uper sa neecha vala section ka element ja rha tha islia iska uper z-index da dia ( kunkah in sections pr position koi de huy thy )
