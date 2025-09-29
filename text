@@ -36,3 +36,8 @@ Third V-IMP: Header ko blur krna seekha use backdrop-blur property.
 02:31:30 To 02:52:30 ( Making a about-us section screen & also mobile size ):
   space-x & y ( bry best property ha space dana kalia ksy bhe element man )
   Hmara Header ka uper sa neecha vala section ka element ja rha tha islia iska uper z-index da dia ( kunkah in sections pr position koi de huy thy )
+
+02:52:30 To 03:20:00:
+  Making a Peoples Reviews section desktop and mobile design ( Testimonial Section ).
+  1- Best property ( scroll-m-) yah scrolling krta vakt jitny dur rakhan gan header sa element vhen a jaya ga.
+  2- How we add any image and style it ( border radius bhe seekha )
