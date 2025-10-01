@@ -42,5 +42,17 @@ Third V-IMP: Header ko blur krna seekha use backdrop-blur property.
   1- Best property ( scroll-m-) yah scrolling krta vakt jitny dur rakhan gan header sa element vhen a jaya ga.
   2- How we add any image and style it ( border radius bhe seekha )
 
-03:20:00 To 03:45:00: I make a Second Last Section and Footer  
-1- yr aik kami rah gaye mujh sa my own media query nhi add huy
+03:20:00 To 03:45:00: I make a Second Last Section and Footer
+  1- yr aik kami rah gaye mujh sa my own media query nhi add huy
+  ( yah masla mara hal hua code step by step channel ke video dakh kr 03:30:30 To 03:38:30 tak )
+
+  ❤️ Video#N0#03 Started ( How we add Dynamic styling Uses Tailwind )
+00:00 To 02:00 Intro Dynamic styling:
+  Hm jab JS ka through koi class add krta han apna element pr functionality
+  add krna kalia To yah functionality tailwind css man kasa add kran gan yah ha Theme of the lesson.
+12:00 To last tak partPending:
+  ( Is main yah samjhaya kah hm kasa tailwind man html he ke jgah Js ka zria class add kr kah udhr he
+  styling da skta han lakin mujh sa hua nhi pending ha  )
+
+  ❤️Video_N0_04 Started ( Prettier Code Formatter in Tailwind all Classes)
+00:00 To Last Tak: Yhy samjha hm tailwind man kasa classes ko automatically formate krta han.

@@ -1,5 +1,11 @@
 @import "tailwindcss";
 
+/* I create my own class  */
 .section_container {
-    @apply px-6 md:px-12 max-w-[1440px] mx-auto
+  @apply mx-auto max-w-[1440px] px-6 md:px-12;
+}
+
+/* I create my own media query */
+@theme {
+  --breakpoint-md800: 800px;
 }
